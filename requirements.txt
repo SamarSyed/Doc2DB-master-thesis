@@ -1,0 +1,48 @@
+tqdm @ file:///tmp/build/80754af9/tqdm_1635330843403/work
+spacy==3.1.5
+scipy==1.7.2
+scikit-learn==1.0.1
+pandas @ file:///C:/ci/pandas_1635506685681/work
+numpy==1.19.5
+coreferee==1.1.3
+coreferee-model-en @ https://github.com/msg-systems/coreferee/raw/master/models/coreferee_model_en.zip
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.1.0/en_core_web_lg-3.1.0-py3-none-any.whl
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.1.0/en_core_web_md-3.1.0-py3-none-any.whl
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.1.0/en_core_web_sm-3.1.0-py3-none-any.whl
+en-core-web-trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.1.0/en_core_web_trf-3.1.0-py3-none-any.whl
+## The following requirements were added by pip freeze:
+keras==2.8.0
+keras-nightly==2.5.0.dev2021032900
+Keras-Preprocessing==1.1.2
+matplotlib==3.5.0
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+networkx @ file:///tmp/build/80754af9/networkx_1633639043937/work
+nltk==3.6.5
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+pandocfilters @ file:///C:/ci/pandocfilters_1605114832805/work
+regex @ file:///C:/ci/regex_1628063427816/work
+requests @ file:///tmp/build/80754af9/requests_1629994808627/work
+requests-oauthlib==1.3.1
+scikit-image==0.18.3
+scikit-learn-intelex==2021.20210714.120553
+sentence-transformers==2.1.0
+spacy-alignments==0.8.4
+spacy-legacy==3.0.8
+spacy-loggers==1.0.1
+spacy-transformers==1.0.6
+stanford-openie==1.3.0
+stanfordnlp==0.2.0
+stanza==1.3.0
+statsmodels==0.12.2
+tensorboard==2.8.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.5.3
+tensorflow-estimator==2.5.0
+thefuzz==0.19.0
+thinc==8.0.13
+tokenizers==0.10.3
+transformers==4.9.2
+urllib3==1.26.7
+Werkzeug @ file:///tmp/build/80754af9/werkzeug_1635505089296/work
+wget==3.2
