@@ -1,1 +1,8 @@
 dir_to_ignore/Preliminary Experiments/files
+Preliminary Experiments/files/Document Entity Count.csv
+Preliminary Experiments/files/Document Statistics.csv
+Preliminary Experiments/files/Entity max label.csv
+Preliminary Experiments/files/Label for Entity Count.csv
+Preliminary Experiments/files/Harry_Potter_Triple_Labeled.pickle
+Preliminary Experiments/files/Entity Label Count.csv
+Preliminary Experiments/files/label_pair_count_dict.pickle
