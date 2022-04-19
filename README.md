@@ -1,18 +1,3 @@
-# Doc2DB-master-thesis
-Doc2DB Code
-
-
-
-# Preparing Environment
-Make a fresh environment and install the dependecies using the requirements.txt file and the following command:
-
-
-
-
-# Preliminary Experiments
-This folder contains the Jupyter notebooks with the preliminary experiments.
-To execute these notebooks, download the data from the following link and place it into the folder called "files".
-
 
 # DOC2DB
 
@@ -61,9 +46,13 @@ If you use conda enviroments you can set up the enviroment with all needed packa
 conda env create --file environment.yaml
 ```
 
-### Executing program
+### Working Examples
 
 The code is made available as Jupyter Notebooks. Notebooks in the folder 'Working Examples' are meant to be run directly for trying out different parts of the DOc2DB System. Further Instruction are available in the notebooks themselves.
+
+### Preliminary Experiments
+This folder contains the Jupyter notebooks with the preliminary experiments.
+To execute these notebooks, download the data from the following link and place it into the folder called "files".
 
 ## Help
 
