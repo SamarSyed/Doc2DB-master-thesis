@@ -47,12 +47,14 @@ conda env create --file environment.yaml
 ```
 
 ### Working Examples
-
 The code is made available as Jupyter Notebooks. Notebooks in the folder 'Working Examples' are meant to be run directly for trying out different parts of the DOc2DB System. Further Instruction are available in the notebooks themselves.
 
 ### Preliminary Experiments
 This folder contains the Jupyter notebooks with the preliminary experiments.
-To execute these notebooks, download the data from the following link and place it into the folder called "files".
+To execute these notebooks, download the data from the following [link](https://drive.google.com/file/d/1XDsaEOO8EKBuz-Bsi9qwj_0XFVweMQgH/view?usp=sharing) and place the contents of the zip folder into the folder called "files" in the directory.
+
+### Experiments
+This folder contains some experiments that have been performed. The Notebooks are meant for viewing only.
 
 ## Help
 
@@ -64,4 +66,10 @@ Contributors names and contact info
 
 Samar Syed
  s.syed@itces.com
+ 
+ ## Acknowledgments
+Libraries
+* [Open-IE Python Wrapper](https://github.com/philipperemy/stanford-openie-python)
+* [spaCy](https://spacy.io/)
+* [Coreferee](https://github.com/msg-systems/coreferee)
 
